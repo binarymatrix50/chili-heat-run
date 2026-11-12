@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Chili Heat Run</string>
+    <string name="app_title">CHILI HEAT RUN</string>
+    <string name="splash_tagline">SERVE THE HEAT, KEEP THE STALL COOL</string>
+    <string name="loading">LOADING</string>
+
+    <string name="cd_logo">Burning chili stall emblem</string>
+    <string name="cd_back">Go back</string>
+    <string name="cd_home">Back to menu</string>
+    <string name="cd_pause">Pause the stall</string>
+    <string name="cd_guest">Market guest waiting for a dish</string>
+    <string name="cd_cart">Street food cart</string>
+    <string name="cd_chili">Chili pepper</string>
+    <string name="cd_ember">Burning ember</string>
+
+    <string name="menu_hero_title">NIGHT MARKET</string>
+    <string name="menu_hero_tagline">FIVE STOPS. ONE PAN. KEEP IT COOL.</string>
+    <string name="play">PLAY</string>
+    <string name="menu_play_sub">ROUTE %1$d · BEST %2$d</string>
+    <string name="levels">LEVELS</string>
+    <string name="progress">PROGRESS</string>
+    <string name="collection">COLLECTION</string>
+    <string name="settings">SETTINGS</string>
+    <string name="menu_levels_caption">%1$d/%2$d STOPS</string>
+    <string name="menu_progress_caption">%1$d RUNS</string>
+    <string name="menu_collection_caption">%1$d/%2$d RECIPES</string>
+    <string name="menu_settings_caption">OPTIONS</string>
+    <string name="menu_footer">LAST RUN · %1$d STOPS · %2$d COINS</string>
+    <string name="menu_footer_empty">NO RUNS YET — START YOUR FIRST ROUTE</string>
+    <string name="chip_pantry">PANTRY %1$d</string>
+    <string name="chip_spice">SPICE %1$d</string>
+
+    <string name="route_builder_title">ROUTE BUILDER</string>
+    <string name="route_slot_locked">STOP %1$d</string>
+    <string name="route_shuffle">SHUFFLE</string>
+    <string name="route_reset">CLEAR ROUTE</string>
+    <string name="route_start">START ROUTE</string>
+    <string name="route_pick_more">PICK %1$d MORE STOPS</string>
+    <string name="route_unlock_hint">OPENS AFTER %1$d RUNS</string>
+    <string name="route_customers">%1$d GUESTS</string>
+    <string name="route_locked_notice">THIS STOP IS STILL CLOSED — FINISH MORE ROUTES</string>
+
+    <string name="stop_market_gate">MARKET GATE</string>
+    <string name="stop_lantern_alley">LANTERN ALLEY</string>
+    <string name="stop_festival_rush">FESTIVAL RUSH</string>
+    <string name="stop_rainy_lane">RAINY LANE</string>
+    <string name="stop_spice_bazaar">SPICE BAZAAR</string>
+    <string name="stop_fire_pit_row">FIRE PIT ROW</string>
+    <string name="stop_late_shift_dock">LATE SHIFT DOCK</string>
+    <string name="stop_reaper_corner">REAPER CORNER</string>
+
+    <string name="mod_steady">STEADY NIGHT</string>
+    <string name="mod_festival">ONE EXTRA GUEST · COINS x2</string>
+    <string name="mod_rainy">PATIENCE x1.3 · COINS x0.5</string>
+    <string name="mod_fire_pit">DEMAND +1 · COINS x1.5</string>
+    <string name="mod_late_shift">ONE LESS STOCK PER CHILI</string>
+
+    <string name="game_header_stop">STOP %1$d/%2$d</string>
+    <string name="game_stall_heat">STALL HEAT %1$d%%</string>
+    <string name="game_dish_label">DISH HEAT</string>
+    <string name="game_clear">CLEAR</string>
+    <string name="game_hint">TAP CHILIES TO BUILD THE DISH, THEN SERVE</string>
+    <string name="game_queue_empty">THE LANE IS QUIET — NEXT GUEST IS WALKING UP</string>
+    <string name="game_plate_empty">EMPTY PAN</string>
+    <string name="serve">SERVE</string>
+    <string name="vent">VENT x%1$d</string>
+    <string name="skip">SKIP</string>
+    <string name="go">GO</string>
+    <string name="resume">RESUME</string>
+    <string name="menu">MENU</string>
+    <string name="pause_title">STALL PAUSED</string>
+    <string name="stop_brief_title">NEXT STOP</string>
+    <string name="stop_brief_guests">%1$d GUESTS IN LINE</string>
+    <string name="stop_brief_demand">HEAT RANGE %1$d TO %2$d</string>
+    <string name="stop_cleared">STOP CLEARED +%1$d</string>
+    <string name="label_heat">HEAT</string>
+    <string name="label_streak">STREAK</string>
+    <string name="label_coins">COINS</string>
+    <string name="outcome_perfect">PERFECT</string>
+    <string name="outcome_passable">PASSABLE</string>
+    <string name="outcome_bland">TOO BLAND</string>
+    <string name="outcome_burn">BURNED</string>
+    <string name="signature_ready">SIGNATURE READY</string>
+    <string name="heat_value">%1$d</string>
+    <string name="heat_plus">+%1$d</string>
+    <string name="heat_minus">-%1$d</string>
+    <string name="tray_stock">x%1$d</string>
+
+    <string name="ing_lime">LIME WEDGE</string>
+    <string name="ing_bell">BELL BASE</string>
+    <string name="ing_jalapeno">JALAPENO</string>
+    <string name="ing_habanero">HABANERO</string>
+    <string name="ing_ghost">GHOST PEPPER</string>
+    <string name="ing_reaper">REAPER DUST</string>
+
+    <string name="result_route_served">ROUTE SERVED</string>
+    <string name="result_overheat">THE PAN WENT UP</string>
+    <string name="result_walkout">THE QUEUE WALKED OUT</string>
+    <string name="result_sub">STOP %1$d/%2$d · %3$s</string>
+    <string name="result_coins">COINS EARNED</string>
+    <string name="result_perfect">PERFECT SERVES</string>
+    <string name="result_best_streak">BEST STREAK</string>
+    <string name="result_spice">SPICE TOKENS</string>
+    <string name="result_new_best">NEW BEST ROUTE</string>
+    <string name="result_unlock_teaser">%1$s READY TO UNLOCK</string>
+    <string name="result_assisted">ASSISTED RUN</string>
+    <string name="result_no_run">NO ROUTE RECORDED YET</string>
+    <string name="play_again">PLAY AGAIN</string>
+
+    <string name="collection_title">RECIPE BOOK</string>
+    <string name="collection_banner">PLAY A ROUTE TO EARN SPICE TOKENS</string>
+    <string name="collection_unlock">UNLOCK %1$d</string>
+    <string name="collection_equip">EQUIP</string>
+    <string name="collection_equipped">EQUIPPED</string>
+    <string name="collection_need_spice">NEEDS MORE SPICE</string>
+
+    <string name="recipe_market_mild_bao">MARKET MILD BAO</string>
+    <string name="recipe_paprika_fries">PAPRIKA STREET FRIES</string>
+    <string name="recipe_smoked_skewer">SMOKED JALAPENO SKEWER</string>
+    <string name="recipe_ember_taco">EMBER TACO</string>
+    <string name="recipe_lime_cooler">LIME COOLER WRAP</string>
+    <string name="recipe_ghost_curry">GHOST CURRY BOWL</string>
+    <string name="recipe_reaper_ramen">REAPER RAMEN</string>
+    <string name="recipe_double_fire">DOUBLE FIRE BURRITO</string>
+
+    <string name="progress_title">CAREER</string>
+    <string name="progress_milestones">MILESTONES</string>
+    <string name="progress_upgrades">STALL UPGRADES</string>
+    <string name="progress_empty">NO RUNS YET — START YOUR FIRST ROUTE</string>
+    <string name="stat_runs">RUNS</string>
+    <string name="stat_best_stops">BEST STOPS</string>
+    <string name="stat_total_coins">TOTAL COINS</string>
+    <string name="stat_recipes">RECIPES</string>
+    <string name="milestone_progress">%1$d/%2$d</string>
+    <string name="milestone_three_runs">THREE ROUTES WALKED</string>
+    <string name="milestone_ten_perfect">TEN PERFECT SERVES</string>
+    <string name="milestone_clear_route">CLEAR A FULL ROUTE</string>
+    <string name="milestone_twentyfive_perfect">TWENTY FIVE PERFECT SERVES</string>
+    <string name="milestone_fifty_runs">FIFTY ROUTES WALKED</string>
+
+    <string name="upgrade_vent_hood_i">VENT HOOD I</string>
+    <string name="upgrade_vent_hood_i_effect">ONE EXTRA VENT CHARGE EVERY RUN</string>
+    <string name="upgrade_chili_fridge">CHILI FRIDGE</string>
+    <string name="upgrade_chili_fridge_effect">GUEST PATIENCE RISES BY 20 PERCENT</string>
+    <string name="upgrade_prep_board">PREP BOARD</string>
+    <string name="upgrade_prep_board_effect">DISH LIMIT FOUR AND ONE EXTRA STOCK PER CHILI</string>
+    <string name="upgrade_vent_hood_ii">VENT HOOD II</string>
+    <string name="upgrade_vent_hood_ii_effect">EACH VENT REMOVES 30 HEAT INSTEAD OF 20</string>
+    <string name="upgrade_owned">OWNED</string>
+    <string name="upgrade_price">%1$d COINS</string>
+    <string name="upgrade_requires">NEEDS VENT HOOD I FIRST</string>
+
+    <string name="settings_title">SETTINGS</string>
+    <string name="setting_heat_numbers">HEAT NUMBERS</string>
+    <string name="setting_heat_numbers_hint">SHOW THE NUMBER NEXT TO THE CHILI PIPS</string>
+    <string name="setting_left_tray">LEFT-HANDED TRAY</string>
+    <string name="setting_left_tray_hint">MIRROR THE TRAY AND THE SERVE BUTTON</string>
+    <string name="setting_assist">PATIENCE ASSIST</string>
+    <string name="setting_assist_hint">SLOWER GUESTS, SMALLER COIN PAYOUT</string>
+    <string name="settings_reset">RESET PROGRESS</string>
+    <string name="reset_title">RESET PROGRESS</string>
+    <string name="reset_message">THIS CLEARS COINS, RECIPES, UPGRADES AND CAREER STATS.</string>
+    <string name="reset_confirm">RESET</string>
+    <string name="reset_cancel">CANCEL</string>
+    <string name="settings_version">VERSION %1$s</string>
+    <string name="state_on">ON</string>
+    <string name="state_off">OFF</string>
+
+    <string name="sd_locked">Locked</string>
+    <string name="sd_open">Available</string>
+    <string name="sd_heat">Stall heat %1$d percent</string>
+    <string name="sd_reached">Reached</string>
+    <string name="sd_pending">In progress</string>
+</resources>
